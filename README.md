@@ -8,9 +8,9 @@ skilltrust/
 └── frontend/
     └── index.html                       ← หน้าเว็บ (ไฟล์เดียว ใช้ ethers.js + MetaMask)
 ```
-https://murkyz1.github.io/final/ 'LinK Website'
+https://murkyz1.github.io/final/ 'Link Website'
 66012316 คิรากร สุวรรณโกสุม
-
+66065761 ภูวนาท ศรุตติ์ตานนทร์
 ## 1. Deploy Smart Contract ด้วย Remix
 
 1. เปิด https://remix.ethereum.org → สร้างไฟล์ `SkillTrustCertificate.sol` แล้ววางโค้ดจาก `contracts/`
