@@ -8,6 +8,8 @@ skilltrust/
 └── frontend/
     └── index.html                       ← หน้าเว็บ (ไฟล์เดียว ใช้ ethers.js + MetaMask)
 ```
+https://murkyz1.github.io/final/ 'LinK Website'
+66012316 คิรากร สุวรรณโกสุม
 
 ## 1. Deploy Smart Contract ด้วย Remix
 
